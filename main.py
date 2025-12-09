@@ -22,9 +22,9 @@ BUTTON_HOVER = (80, 80, 80)
 GRID_SPACING = 120    
 CIRCLE_SIZE = 25      
 
-FLASH_FAST = 250      
-FLASH_SLOW = 500  
-PAUSE_DURATION = 50   
+FLASH_FAST = 400      
+FLASH_SLOW = 700  
+PAUSE_DURATION = 150   
 
 TRIALS_PER_RULE = 5
 
@@ -305,4 +305,5 @@ def draw_interactive_results(screen, title_font, font, small_font, stats, mouse_
     return buttons
 
 if __name__ == "__main__":
+
     run_experiment()
