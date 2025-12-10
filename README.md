@@ -17,9 +17,10 @@ The session is divided into two phases:
 1. Training: 2 simple sequences (Line, Snake) to familiarize the participant with the interface.
 2. Test : 8 different sequences of increasing compexity.
 <figure>
-  <img src="images/Interface.PNG" width="300">
+  <img src="https://raw.githubusercontent.com/AmiineA/Project-SequenceCognition/main/images/Interface.PNG" width="300">
   <figcaption>Figure 1: Interface utilisateur.</figcaption>
 </figure>
+
 
 ## Sequences (Test Phase)
 
@@ -39,6 +40,7 @@ Al Roumi, F., Marti, S., Wang, L., Amalric, M., & Dehaene, S. (2021). Mental com
 ## Author
 
 Amrani Mohamed Amine
+
 
 
 
